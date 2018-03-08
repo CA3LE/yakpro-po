@@ -60,7 +60,7 @@ to understand by human people, obfuscation is a very good way to achieve this go
 
 
 ### Why Yet Another Php Obfuscator?
-I began testing some already existing php obfuscation tools, but I did'nt find one that was
+I began testing some already existing php obfuscation tools, but I didn't find one that was
 fitting all my needs.
 I wanted a **simple** command line tool, based on a **highly customisable** config file, that would be able to:
 - Be fast and re-obfuscate only files that were changed based on timestamps of files.
